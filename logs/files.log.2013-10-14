@@ -1,0 +1,2534 @@
+14-10-2013 01:05:05,271 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,271 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,444 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at java.util.Calendar.setTime(Calendar.java:1106)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:955)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:948)
+	at java.text.DateFormat.format(DateFormat.java:336)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:230)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,444 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at java.util.Calendar.setTime(Calendar.java:1106)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:955)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:948)
+	at java.text.DateFormat.format(DateFormat.java:336)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:230)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,445 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,445 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,446 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,446 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,447 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,447 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,448 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,448 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,449 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,449 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,450 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,450 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,478 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,478 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,510 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,510 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,513 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,513 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,594 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,594 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,599 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,599 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,603 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,603 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,615 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,615 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,624 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,624 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,634 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,634 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,648 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,648 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,655 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,655 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,738 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,738 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,741 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,741 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,742 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,742 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,744 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,744 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,763 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,763 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,775 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,775 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,785 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,785 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,787 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,787 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,790 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,790 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,792 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,792 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,795 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,795 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,808 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,808 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,815 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,815 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,823 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,823 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,836 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,836 ERROR - Unknown exception occurred!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,854 ERROR - Unknown exception occurred!
+com.drew.imaging.ImageProcessingException: File format is not supported
+	at com.drew.imaging.ImageMetadataReader.readMetadata(Unknown Source)
+	at com.drew.imaging.ImageMetadataReader.readMetadata(Unknown Source)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:227)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:05:05,854 ERROR - Unknown exception occurred!
+com.drew.imaging.ImageProcessingException: File format is not supported
+	at com.drew.imaging.ImageMetadataReader.readMetadata(Unknown Source)
+	at com.drew.imaging.ImageMetadataReader.readMetadata(Unknown Source)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:227)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:71)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,576 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,576 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,580 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at java.util.Calendar.setTime(Calendar.java:1106)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:955)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:948)
+	at java.text.DateFormat.format(DateFormat.java:336)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:230)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,580 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at java.util.Calendar.setTime(Calendar.java:1106)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:955)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:948)
+	at java.text.DateFormat.format(DateFormat.java:336)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:230)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,580 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,580 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,581 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,581 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,582 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,582 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,583 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,583 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,583 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,583 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,584 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,584 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,585 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,585 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,586 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,586 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,586 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,586 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,587 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,587 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,588 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,588 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,588 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,588 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,589 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,589 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,590 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,590 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,590 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,590 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,591 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,591 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,591 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,591 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,592 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,592 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,592 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,592 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,593 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,593 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,594 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,594 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,594 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,594 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,595 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,595 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,595 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,595 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,596 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,596 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,597 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,597 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,597 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,597 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,598 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,598 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,598 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,598 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,599 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,599 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,599 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,599 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,600 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,600 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,600 ERROR - Unknown error occurred!
+com.drew.imaging.ImageProcessingException: File format is not supported
+	at com.drew.imaging.ImageMetadataReader.readMetadata(Unknown Source)
+	at com.drew.imaging.ImageMetadataReader.readMetadata(Unknown Source)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:227)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:13:43,600 ERROR - Unknown error occurred!
+com.drew.imaging.ImageProcessingException: File format is not supported
+	at com.drew.imaging.ImageMetadataReader.readMetadata(Unknown Source)
+	at com.drew.imaging.ImageMetadataReader.readMetadata(Unknown Source)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:227)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,137 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,137 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,141 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at java.util.Calendar.setTime(Calendar.java:1106)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:955)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:948)
+	at java.text.DateFormat.format(DateFormat.java:336)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:230)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,141 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at java.util.Calendar.setTime(Calendar.java:1106)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:955)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:948)
+	at java.text.DateFormat.format(DateFormat.java:336)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:230)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,142 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,142 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,143 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,143 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,144 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,144 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,144 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,144 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,145 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,145 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,146 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,146 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,150 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at java.util.Calendar.setTime(Calendar.java:1106)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:955)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:948)
+	at java.text.DateFormat.format(DateFormat.java:336)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:230)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,150 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at java.util.Calendar.setTime(Calendar.java:1106)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:955)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:948)
+	at java.text.DateFormat.format(DateFormat.java:336)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:230)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,150 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,150 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,151 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,151 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,152 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,152 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,152 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,152 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,153 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,153 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,154 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,154 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,154 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,154 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,155 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,155 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,155 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,155 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,156 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,156 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,157 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,157 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,157 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,157 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,158 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,158 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,158 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,158 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,159 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,159 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,162 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,162 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,163 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,163 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,163 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,163 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,164 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,164 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,165 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,165 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,172 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,172 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,172 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,172 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,173 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,173 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,174 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,174 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,175 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,175 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,180 ERROR - Unknown error occurred!
+com.drew.imaging.ImageProcessingException: File format is not supported
+	at com.drew.imaging.ImageMetadataReader.readMetadata(Unknown Source)
+	at com.drew.imaging.ImageMetadataReader.readMetadata(Unknown Source)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:227)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:15:24,180 ERROR - Unknown error occurred!
+com.drew.imaging.ImageProcessingException: File format is not supported
+	at com.drew.imaging.ImageMetadataReader.readMetadata(Unknown Source)
+	at com.drew.imaging.ImageMetadataReader.readMetadata(Unknown Source)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:227)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,912 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,912 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,916 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at java.util.Calendar.setTime(Calendar.java:1106)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:955)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:948)
+	at java.text.DateFormat.format(DateFormat.java:336)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:230)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,916 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at java.util.Calendar.setTime(Calendar.java:1106)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:955)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:948)
+	at java.text.DateFormat.format(DateFormat.java:336)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:230)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,917 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,917 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,918 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,918 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,918 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,918 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,919 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,919 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,920 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,920 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,920 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,920 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,923 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at java.util.Calendar.setTime(Calendar.java:1106)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:955)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:948)
+	at java.text.DateFormat.format(DateFormat.java:336)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:230)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,923 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at java.util.Calendar.setTime(Calendar.java:1106)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:955)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:948)
+	at java.text.DateFormat.format(DateFormat.java:336)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:230)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,924 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,924 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,924 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,924 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,925 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,925 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,927 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,927 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,928 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,928 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,929 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,929 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,929 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,929 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,930 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,930 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,930 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,930 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,931 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,931 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,931 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,931 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,932 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,932 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,932 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,932 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,933 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,933 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,933 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,933 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,934 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,934 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,934 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,934 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,935 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,935 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,936 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,936 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,936 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,936 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,937 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,937 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,937 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,937 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,942 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,942 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,943 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,943 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,943 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,943 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,946 ERROR - Unknown error occurred!
+com.drew.imaging.ImageProcessingException: File format is not supported
+	at com.drew.imaging.ImageMetadataReader.readMetadata(Unknown Source)
+	at com.drew.imaging.ImageMetadataReader.readMetadata(Unknown Source)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:227)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:21:45,946 ERROR - Unknown error occurred!
+com.drew.imaging.ImageProcessingException: File format is not supported
+	at com.drew.imaging.ImageMetadataReader.readMetadata(Unknown Source)
+	at com.drew.imaging.ImageMetadataReader.readMetadata(Unknown Source)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:227)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:14,391 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:14,391 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:14,910 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at java.util.Calendar.setTime(Calendar.java:1106)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:955)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:948)
+	at java.text.DateFormat.format(DateFormat.java:336)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:230)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:14,910 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at java.util.Calendar.setTime(Calendar.java:1106)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:955)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:948)
+	at java.text.DateFormat.format(DateFormat.java:336)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:230)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:32,513 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:32,513 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,815 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,815 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,816 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,816 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,817 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,817 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,818 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,818 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,819 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,819 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,823 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at java.util.Calendar.setTime(Calendar.java:1106)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:955)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:948)
+	at java.text.DateFormat.format(DateFormat.java:336)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:230)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,823 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at java.util.Calendar.setTime(Calendar.java:1106)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:955)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:948)
+	at java.text.DateFormat.format(DateFormat.java:336)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:230)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,824 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,824 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,825 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,825 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,825 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,825 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,828 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,828 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,829 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,829 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,830 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,830 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,830 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,830 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,831 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,831 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,831 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,831 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,832 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,832 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,832 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,832 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,833 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,833 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,834 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,834 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,834 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,834 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,835 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,835 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,835 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,835 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,836 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,836 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,836 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,836 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,837 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,837 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,838 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,838 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,838 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,838 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,839 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,839 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,840 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,840 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,844 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,844 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,845 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,845 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:229)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,847 ERROR - Unknown error occurred!
+com.drew.imaging.ImageProcessingException: File format is not supported
+	at com.drew.imaging.ImageMetadataReader.readMetadata(Unknown Source)
+	at com.drew.imaging.ImageMetadataReader.readMetadata(Unknown Source)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:227)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+14-10-2013 01:28:39,847 ERROR - Unknown error occurred!
+com.drew.imaging.ImageProcessingException: File format is not supported
+	at com.drew.imaging.ImageMetadataReader.readMetadata(Unknown Source)
+	at com.drew.imaging.ImageMetadataReader.readMetadata(Unknown Source)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:227)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)

@@ -1,0 +1,66 @@
+08-11-2013 23:13:37,815 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at java.util.Calendar.setTime(Calendar.java:1106)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:955)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:948)
+	at java.text.DateFormat.format(DateFormat.java:336)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:230)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+08-11-2013 23:13:37,815 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at java.util.Calendar.setTime(Calendar.java:1106)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:955)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:948)
+	at java.text.DateFormat.format(DateFormat.java:336)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:230)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+08-11-2013 23:17:11,118 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at java.util.Calendar.setTime(Calendar.java:1106)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:955)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:948)
+	at java.text.DateFormat.format(DateFormat.java:336)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:230)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+08-11-2013 23:17:11,118 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at java.util.Calendar.setTime(Calendar.java:1106)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:955)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:948)
+	at java.text.DateFormat.format(DateFormat.java:336)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:230)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+08-11-2013 23:18:22,676 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at java.util.Calendar.setTime(Calendar.java:1106)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:955)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:948)
+	at java.text.DateFormat.format(DateFormat.java:336)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:230)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)
+08-11-2013 23:18:22,676 ERROR - No exif data found for rename!
+java.lang.NullPointerException
+	at java.util.Calendar.setTime(Calendar.java:1106)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:955)
+	at java.text.SimpleDateFormat.format(SimpleDateFormat.java:948)
+	at java.text.DateFormat.format(DateFormat.java:336)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameImageFile(FileManipulation.java:230)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:72)
+	at com.odonataworkshop.files.renamer.file.FileManipulation.renameFiles(FileManipulation.java:44)
+	at com.odonataworkshop.files.renamer.controller.Controller$1.run(Controller.java:68)
+	at java.lang.Thread.run(Thread.java:724)

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_8" jdk="1.8" jdk_type="JavaSDK">
+	<output-test url="file://$MODULE_DIR$/target/test-classes"/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<testFolder url="file://$MODULE_DIR$/src/test/java"/>
+		<excludeFolder url="file://$MODULE_DIR$/target"/>
+	</contentEntry>
+	<lib name="Maven: com.aquafx-project:aquafx:0.2" scope="RUNTIME"/>
+	<lib name="Maven: com.guigarage:stylemanager:0.1b2" scope="RUNTIME"/>
+	<lib name="Maven: commons-io:commons-io:2.4" scope="RUNTIME"/>
+	<levels>
+		<level name="Maven: com.aquafx-project:aquafx:0.2" value="project"/>
+		<level name="Maven: com.guigarage:stylemanager:0.1b2" value="project"/>
+		<level name="Maven: commons-io:commons-io:2.4" value="project"/>
+		<level name="Maven: org.apache.logging.log4j:log4j-api:2.3" value="project"/>
+		<level name="Maven: org.apache.logging.log4j:log4j-core:2.3" value="project"/>
+		<level name="Maven: com.drewnoakes:metadata-extractor:2.7.0" value="project"/>
+		<level name="Maven: com.adobe.xmp:xmpcore:5.1.2" value="project"/>
+	</levels>
+</component>
