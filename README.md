@@ -2,7 +2,7 @@
 An application mainly for photographers. When delivering a cd with photos, or while processing images, one wants them to be ordered appropriately  according to the event plan. The program helps with that by renaming image files with their "date taken" timestamp.  
 
 #Distributives
-windows: [link](https://drive.google.com/file/d/0B8BTzrIGvrTtSl9CT1NoejNTREE/view?usp=sharing) <br/>
+windows: [link](http://sourceforge.net/projects/filesrenamer/files/filesRenamer_windows) <br/>
 mac : pending...
 
 #User guide
